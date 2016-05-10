@@ -9,7 +9,6 @@ googleAnalytics = "UA-60059951-1"
 
 [Permalinks]
     blog = "/:year/:month/:filename/"
-    code = "/:filename/"
 
 [params]
     themeColor = "theme-base-0d"
