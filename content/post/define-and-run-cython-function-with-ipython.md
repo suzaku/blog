@@ -1,6 +1,5 @@
 +++
 date = "2016-05-10T08:32:28+08:00"
-draft = true
 title = "define and run cython function with ipython"
 
 +++
