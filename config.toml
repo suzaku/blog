@@ -1,0 +1,17 @@
+baseurl = "http://satoru.rocks/"
+languageCode = "en-us"
+title = "Curiosity Driven Writing"
+theme = "hyde"
+copyright = "satoru Logic"
+
+[Author]
+    name = "Satoru Logic"
+
+[Permalinks]
+    blog = "/:year/:month/:filename/"
+    code = "/:filename/"
+
+[params]
+    themeColor = "theme-base-0d"
+    disqusShortname = "satorulogic"
+    description = "Learning by Writing"
