@@ -2,6 +2,7 @@ baseurl = "http://satoru.rocks/"
 languageCode = "en-us"
 title = "Curiosity Driven Writing"
 theme = "hyde"
+googleAnalytics = "UA-60059951-1"
 
 [Author]
     name = "Satoru Logic"
