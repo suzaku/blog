@@ -2,7 +2,6 @@ baseurl = "http://satoru.rocks/"
 languageCode = "en-us"
 title = "Curiosity Driven Writing"
 theme = "hyde"
-copyright = "satoru Logic"
 
 [Author]
     name = "Satoru Logic"
