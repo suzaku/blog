@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Curiosity Driven Writing"
 theme = "hyde"
 googleAnalytics = "UA-60059951-1"
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
 
 [Author]
     name = "Satoru Logic"
