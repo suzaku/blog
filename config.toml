@@ -5,6 +5,7 @@ theme = "hyde"
 googleAnalytics = "UA-60059951-1"
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
+disqusShortname = "satorulogic"
 
 [Author]
     name = "Satoru Logic"
@@ -14,6 +15,5 @@ PygmentsStyle = "monokai"
 
 [params]
     themeColor = "theme-base-0d"
-    disqusShortname = "satorulogic"
     description = "Learning by Writing"
     github = "https://github.com/suzaku"
